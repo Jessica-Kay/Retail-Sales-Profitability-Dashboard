@@ -95,7 +95,7 @@ Retail_Sales_Profitability_Dashboard.xlsx (github.com in Bing)
 
 </div>
 
-# Key Features
+## <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" width="26"/> Key Features
 
 -KPI card row summarizing Total Sales, Total Profit, Profit Margin %, and Return Rate %
 
