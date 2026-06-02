@@ -103,17 +103,17 @@ Below is a structured overview of all files included in this project, organized 
 
 ## <img src="https://img.icons8.com/fluency/48/000000/combo-chart.png" width="26"/> Key Features
 
--KPI card row summarizing Total Sales, Total Profit, Profit Margin %, and Return Rate %
+- KPI card row summarizing Total Sales, Total Profit, Profit Margin %, and Return Rate %
 
--Interactive slicers for Category, Region, Segment, and Date
+- Interactive slicers for Category, Region, Segment, and Date
 
--Monthly and yearly sales trend analysis
+- Monthly and yearly sales trend analysis
 
--Category and sub‑category performance breakdown
+- Category and sub‑category performance breakdown
 
--Integrated return rate analysis
+- Integrated return rate analysis
 
--Clean, modern layout optimized for executive decision‑making
+- Clean, modern layout optimized for executive decision‑making
 
 </div>
 
