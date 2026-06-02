@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # 📈 Retail Sales & Profitability Dashboard  
 ### Built with:  
 🟦 Excel & Power Query | 📊 PivotTables & PivotCharts | 📁 Data Cleaning | 📉 Trend Analysis
