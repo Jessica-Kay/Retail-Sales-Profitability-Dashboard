@@ -7,7 +7,7 @@
 A fully interactive Excel dashboard analyzing sales, profit, and return behavior across product categories, regions, and customer segments. This project demonstrates end‑to‑end analytics skills including data cleaning, Power Query transformation, KPI development, dashboard design, and business insight generation.
 
 </div>
- 
+  
 # 🔗 Navigation
 
 - [Dashboard Overview](#-dashboard-overview)
