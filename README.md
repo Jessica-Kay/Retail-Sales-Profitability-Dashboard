@@ -45,12 +45,18 @@ The dashboard provides a comprehensive view of retail performance, enabling stak
  
 A structured overview of all files included in this project, organized for clarity and easy navigation.
 
+</div>
+
 📂 Data
+
 Superstore_Dataset.xls (github.com in Bing)
 
 data_dictionary.md (github.com in Bing)
 
+</div>
+
 📁 Documentation
+
 business_questions.md (github.com in Bing)
 
 calculated_fields.md (github.com in Bing)
@@ -61,7 +67,10 @@ insights_summary.md (github.com in Bing)
 
 kpi_defintions.md (github.com in Bing)
 
+</div>
+
 🛠️ Power Query
+
 m_code_merge.md (github.com in Bing)
 
 m_code_orders.md (github.com in Bing)
@@ -70,17 +79,24 @@ m_code_returns.md (github.com in Bing)
 
 power_query_documentation.md (github.com in Bing)
 
+</div>
+
 🖼️ Images
+
 Superstore_Dashboard_Screenshot.png (github.com in Bing)
 
 kpi_cards.png (github.com in Bing)
 
+</div>
+
 📈 Dashboard File
+
 Retail_Sales_Profitability_Dashboard.xlsx (github.com in Bing)
 
 </div>
 
-Key Features
+# Key Features
+
 -KPI card row summarizing Total Sales, Total Profit, Profit Margin %, and Return Rate %
 
 -Interactive slicers for Category, Region, Segment, and Date
@@ -108,7 +124,8 @@ Analytical Insights
 
 </div>
 
-Tools & Skills Demonstrated
+## 🛠️ Tools & Skills Demonstrated
+
 - Excel (Power Query, PivotTables, PivotCharts, Slicers)
 
 - Data cleaning and transformation
@@ -123,5 +140,6 @@ Tools & Skills Demonstrated
 
 </div>
 
-🎯 Summary
+# 🎯 Summary
+
 This project showcases a complete analytics workflow — from raw data to a polished, interactive dashboard supported by clear documentation and business insights. It demonstrates technical skill, business understanding, and professional presentation.
