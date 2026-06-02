@@ -19,10 +19,12 @@ A fully interactive Excel dashboard analyzing sales, profit, and return behavior
 
 </div>
 
-⭐ Dashboard Overview
+# ⭐ Dashboard Overview
+
 The dashboard provides a comprehensive view of retail performance, enabling stakeholders to quickly identify trends, evaluate profitability, and uncover opportunities for improvement.
 
-🔍 Key Questions Answered
+# 🔍 Key Questions Answered
+
 -Which categories and regions drive the most sales
 
 -Where profitability is strongest or weakest
@@ -39,9 +41,8 @@ The dashboard provides a comprehensive view of retail performance, enabling stak
   <img src="images/Superstore_Dashboard_Screenshot.png" width="800">
 </div>
 
+# ⭐ Project Files
 
-
-⭐ Project Files
 A structured overview of all files included in this project, organized for clarity and easy navigation.
 
 📂 Data
