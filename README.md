@@ -8,6 +8,21 @@ A fully interactive Excel dashboard analyzing sales, profit, and return behavior
 
 </div>
 
+🔗 Navigation
+Dashboard Overview
+
+Key Questions Answered
+
+Project Files
+
+Key Features
+
+Tools & Skills Demonstrated
+
+Summary
+
+</div>
+
 ⭐ Dashboard Overview
 The dashboard provides a comprehensive view of retail performance, enabling stakeholders to quickly identify trends, evaluate profitability, and uncover opportunities for improvement.
 
@@ -28,18 +43,43 @@ The dashboard provides a comprehensive view of retail performance, enabling stak
   <img src="images/Superstore_Dashboard_Screenshot.png" width="800">
 </div>
 
+
+
 ⭐ Project Files
-
-📁 Documentation
-
-
-🛠️ Power Query
-
+A structured overview of all files included in this project, organized for clarity and easy navigation.
 
 📂 Data
+Superstore_Dataset.xls (github.com in Bing)
 
+data_dictionary.md (github.com in Bing)
 
+📁 Documentation
+business_questions.md (github.com in Bing)
 
+calculated_fields.md (github.com in Bing)
+
+features.md (github.com in Bing)
+
+insights_summary.md (github.com in Bing)
+
+kpi_defintions.md (github.com in Bing)
+
+🛠️ Power Query
+m_code_merge.md (github.com in Bing)
+
+m_code_orders.md (github.com in Bing)
+
+m_code_returns.md (github.com in Bing)
+
+power_query_documentation.md (github.com in Bing)
+
+🖼️ Images
+Superstore_Dashboard_Screenshot.png (github.com in Bing)
+
+kpi_cards.png (github.com in Bing)
+
+📈 Dashboard File
+Retail_Sales_Profitability_Dashboard.xlsx (github.com in Bing)
 
 </div>
 
