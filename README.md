@@ -1,33 +1,60 @@
 <div align="center">
 
-# 📈 Retail Analytics Dashboard  
+# 📈 Retail Sales & Profitability Dashboard  
 ### Built with:  
 🟦 Excel & Power Query | 📊 PivotTables & PivotCharts | 📁 Data Cleaning | 📉 Trend Analysis
+
+A fully interactive Excel dashboard analyzing sales, profit, and return behavior across product categories, regions, and customer segments. This project demonstrates end‑to‑end analytics skills including data cleaning, Power Query transformation, KPI development, dashboard design, and business insight generation.
+
+</div>
+
+⭐ Dashboard Overview
+The dashboard provides a comprehensive view of retail performance, enabling stakeholders to quickly identify trends, evaluate profitability, and uncover opportunities for improvement.
+
+🔍 Key Questions Answered
+-Which categories and regions drive the most sales
+
+-Where profitability is strongest or weakest
+
+-How discounts and returns impact profit margin
+
+-How sales and profit trend over time
+
+-Which customer segments contribute the most revenue
+
+🖼️ Dashboard Snapshot
 
 <div align="center">
   <img src="images/Superstore_Dashboard_Screenshot.png" width="800">
 </div>
 
-This project delivers an interactive Excel dashboard analyzing multi‑year retail performance across Sales, Profit, Category trends, Regional contribution, and Return behavior. The dashboard is designed for fast executive‑level insight, with clean visual structure, consistent formatting, and a dedicated Key Insights panel summarizing the most important findings.
+⭐ Project Files
+
+📁 Documentation
+
+
+🛠️ Power Query
+
+
+📂 Data
+
+
+
 
 </div>
 
 Key Features
-- Multi‑year analysis of Sales and Profit (2023–2026)
+-KPI card row summarizing Total Sales, Total Profit, Profit Margin %, and Return Rate %
 
-- Category performance trends with YoY growth calculations
+-Interactive slicers for Category, Region, Segment, and Date
 
-- Regional profit contribution and loss identification
+-Monthly and yearly sales trend analysis
 
-- Return rate analysis by product category
+-Category and sub‑category performance breakdown
 
-- Seasonal trend detection across quarters
+-Integrated return rate analysis
 
-- Fully interactive slicer panel for dynamic filtering
-
-- Clean, modern layout with structured three‑column design
-
-- Analytical Key Insights box summarizing top findings
+-Clean, modern layout optimized for executive decision‑making
 
 </div>
 
@@ -49,8 +76,15 @@ Tools & Skills Demonstrated
 
 - Data cleaning and transformation
 
-- KPI design and dashboard layout
+- KPI design and business insight development
+
+- Dashboard layout and visual design
 
 - Analytical storytelling and insight extraction
 
-- Professional formatting and UI/UX principles for BI dashboards
+- GitHub documentation and project structuring
+
+</div>
+
+🎯 Summary
+This project showcases a complete analytics workflow — from raw data to a polished, interactive dashboard supported by clear documentation and business insights. It demonstrates technical skill, business understanding, and professional presentation.
