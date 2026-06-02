@@ -8,18 +8,14 @@ A fully interactive Excel dashboard analyzing sales, profit, and return behavior
 
 </div>
 
-🔗 Navigation
-Dashboard Overview
+# 🔗 Navigation
 
-Key Questions Answered
-
-Project Files
-
-Key Features
-
-Tools & Skills Demonstrated
-
-Summary
+- [Dashboard Overview](#-dashboard-overview)
+- [Key Questions Answered](#-key-questions-answered)
+- [Project Files](#-project-files)
+- [Key Features](#-key-features)
+- [Tools & Skills Demonstrated](#-tools--skills-demonstrated)
+- [Summary](#-summary)
 
 </div>
 
