@@ -111,7 +111,8 @@ Retail_Sales_Profitability_Dashboard.xlsx (github.com in Bing)
 
 </div>
 
-Analytical Insights
+## <img src="https://img.icons8.com/fluency/48/000000/analytics.png" width="26"/> Analytical Insights
+
 - Technology leads 2025 YoY growth at 39%, outperforming Office Supplies (35%) and Furniture (17%)
 
 - West and East regions together contribute 62% of total profit
