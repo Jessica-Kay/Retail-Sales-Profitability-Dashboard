@@ -41,57 +41,63 @@ The dashboard provides a comprehensive view of retail performance, enabling stak
   <img src="images/Superstore_Dashboard_Screenshot.png" width="800">
 </div>
 
-# ⭐ Project Files
- 
-A structured overview of all files included in this project, organized for clarity and easy navigation.
+## 📁 Project Files
 
-</div>
+Below is a structured overview of all files included in this project, organized for clarity and easy navigation.
 
-📂 Data
+---
 
-Superstore_Dataset.xls (github.com in Bing)
+<details>
+<summary><strong>📂 Data</strong></summary>
 
-data_dictionary.md (github.com in Bing)
+- [Superstore_Dataset.xls](data/Superstore_Dataset.xls)
+- [data_dictionary.md](data/data_dictionary.md)
 
-</div>
+</details>
 
-📁 Documentation
+---
 
-business_questions.md (github.com in Bing)
+<details>
+<summary><strong>📁 Documentation</strong></summary>
 
-calculated_fields.md (github.com in Bing)
+- [business_questions.md](documentation/business_questions.md)
+- [calculated_fields.md](documentation/calculated_fields.md)
+- [features.md](documentation/features.md)
+- [insights_summary.md](documentation/insights_summary.md)
+- [kpi_defintions.md](documentation/kpi_defintions.md)
 
-features.md (github.com in Bing)
+</details>
 
-insights_summary.md (github.com in Bing)
+---
 
-kpi_defintions.md (github.com in Bing)
+<details>
+<summary><strong>🛠️ Power Query</strong></summary>
 
-</div>
+- [m_code_merge.md](power_query/m_code_merge.md)
+- [m_code_orders.md](power_query/m_code_orders.md)
+- [m_code_returns.md](power_query/m_code_returns.md)
+- [power_query_documentation.md](power_query/power_query_documentation.md)
 
-🛠️ Power Query
+</details>
 
-m_code_merge.md (github.com in Bing)
+---
 
-m_code_orders.md (github.com in Bing)
+<details>
+<summary><strong>🖼️ Images</strong></summary>
 
-m_code_returns.md (github.com in Bing)
+- [Superstore_Dashboard_Screenshot.png](images/Superstore_Dashboard_Screenshot.png)
+- [kpi_cards.png](images/kpi_cards.png)
 
-power_query_documentation.md (github.com in Bing)
+</details>
 
-</div>
+---
 
-🖼️ Images
+<details>
+<summary><strong>📈 Dashboard File</strong></summary>
 
-Superstore_Dashboard_Screenshot.png (github.com in Bing)
+- [Retail_Sales_Profitability_Dashboard.xlsx](Retail_Sales_Profitability_Dashboard.xlsx)
 
-kpi_cards.png (github.com in Bing)
-
-</div>
-
-📈 Dashboard File
-
-Retail_Sales_Profitability_Dashboard.xlsx (github.com in Bing)
+</details>
 
 </div>
 
