@@ -8,7 +8,7 @@ A fully interactive Excel dashboard analyzing sales, profit, and return behavior
 
 </div>
   
-# 🔗 Navigation
+## 🔗 Navigation
 
 - [Dashboard Overview](#-dashboard-overview)
 - [Key Questions Answered](#-key-questions-answered)
@@ -19,11 +19,11 @@ A fully interactive Excel dashboard analyzing sales, profit, and return behavior
 
 </div>
 
-# ⭐ Dashboard Overview
+## ⭐ Dashboard Overview
 
 The dashboard provides a comprehensive view of retail performance, enabling stakeholders to quickly identify trends, evaluate profitability, and uncover opportunities for improvement.
 
-# 🔍 Key Questions Answered
+## 🔍 Key Questions Answered
 
 -Which categories and regions drive the most sales
 
@@ -147,6 +147,6 @@ Below is a structured overview of all files included in this project, organized 
 
 </div>
 
-# 🎯 Summary
+## 🎯 Summary
 
 This project showcases a complete analytics workflow — from raw data to a polished, interactive dashboard supported by clear documentation and business insights. It demonstrates technical skill, business understanding, and professional presentation.
